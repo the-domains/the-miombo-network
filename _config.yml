@@ -1,0 +1,14 @@
+layout_spectrum: 0.409295292571187
+typography_spectrum: 0.5558393797837198
+color:
+  brandStrength: 0.7619187531527132
+  lightness: 0.5184935207944363
+  saturation: 0.37505100783891976
+  rhythmicContrast: 0.21799272089265287
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: the miombo network
