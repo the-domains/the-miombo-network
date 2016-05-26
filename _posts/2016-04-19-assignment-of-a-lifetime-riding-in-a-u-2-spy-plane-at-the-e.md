@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-26T07:56:19.945Z'
+datePublished: '2016-05-26T07:56:21.404Z'
 sourcePath: _posts/2016-04-19-assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-e.md
 inFeed: true
 isBasedOnUrl: 'http://petapixel.com/2015/05/24/assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-edge-of-space/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-26T07:56:19.011Z'
+dateModified: '2016-05-26T07:56:20.694Z'
 title: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
 app_links: []
 publisher:
